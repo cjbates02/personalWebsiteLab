@@ -16,10 +16,14 @@
    - Open `index.html` in a browser to see your site live.
 
 ## Directory Structure
-├── index.html        # Main HTML file for the website structure and content
-├── styles.css        # CSS file for styling the webpage
-├── script.js         # JavaScript file for adding interactive functionality
-├── assets/           # Folder for images, icons, and logos
+├── index.html        # Main HTML file for the website structure and content  
+
+├── styles.css        # CSS file for styling the webpage  
+
+├── script.js         # JavaScript file for adding interactive functionality  
+
+├── assets/           # Folder for images, icons, and logos  
+
 
 ## 🧠 What You Can Do
 
